@@ -8,3 +8,5 @@ PPT: In this folder, you’ll find the project presentation slides. These slides
 Project Report: Dive into the detailed project report here. We’ve documented our research, methodology, challenges, and outcomes.
 
 UI Design: Explore the UI design assets—color schemes, icons, typography, and layout—that form the visual foundation of our app.
+
+UI Video : Explore the video how it's works
